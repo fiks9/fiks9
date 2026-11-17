@@ -29,4 +29,4 @@ Have a task in mind? I'd love to hear what you're working on.
 
 ## Let's connect
 
-[✈️ Telegram](https://t.me/xFiks) · [✉️ Email](mailto:dmytro@varunok.me) · [🌐 Portfolio](https://dmytro.varunok.me)
+[✈️ Telegram](https://t.me/itsfiks) · [✉️ Email](mailto:dmytro@varunok.me) · [🌐 Portfolio](https://dmytro.varunok.me)
